@@ -1,1 +1,7 @@
-
+echo "# btl_truy_tim_f0" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git nhánh -M main 
+git từ xa thêm origin https://github.com/nhom11python/btl_truy_tim_f0.git
+ git push - xuất xứ chính của u
