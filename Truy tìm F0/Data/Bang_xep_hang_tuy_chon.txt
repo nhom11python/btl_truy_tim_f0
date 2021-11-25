@@ -1,0 +1,3 @@
+tuan 3 12 1 2
+rtyu 10 2 3 4
+duytuan 19 10 6 7
